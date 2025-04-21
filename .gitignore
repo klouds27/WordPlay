@@ -1,0 +1,23 @@
+# .DS_Store
+.DS_Store
+
+# Local environment variables
+.env.local
+
+# Next.js cache
+.next/
+out/
+build/
+
+# Node.js modules
+node_modules/
+
+# Packages
+packages/*/node_modules
+
+# Logs
+*.log
+*.txt
+
+# Ignore the blueprint file
+blueprint.md
