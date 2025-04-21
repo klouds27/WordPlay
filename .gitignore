@@ -9,6 +9,9 @@
 out/
 build/
 
+
+.env
+
 # Node.js modules
 node_modules/
 
